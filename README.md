@@ -180,6 +180,14 @@ rpprotac/
 ```
 
 ## License
-This project adopts a dual-licensing structure to distinguish source code from research data:
-- **Source Code**: Licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
-- **Dataset**: All data files located in the `data/` directory are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](data/LICENSE).
+This repository contains materials under two different licenses:
+
+### Code License ([PolyForm Noncommercial License 1.0.0](LICENSE)).
+
+All source code in this repository is licensed under the PolyForm Noncommercial License 1.0.0, which permits use for non-commercial purposes only.  
+See the [LICENSE](LICENSE) file for full terms.
+
+### Data & Model License ([CC BY-NC-SA 4.0](data/LICENSE)).
+
+The trained model weights and any generated data are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
+See the [data/LICENSE](data/LICENSE) for details.
